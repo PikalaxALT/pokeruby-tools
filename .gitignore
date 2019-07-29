@@ -1,0 +1,12 @@
+tools/aif2pcm/aif2pcm
+tools/bin2c/bin2c
+tools/gbafix/gbafix
+tools/gbagfx/gbagfx
+tools/jsonproc/jsonproc
+tools/mapjson/mapjson
+tools/mid2agb/mid2agb
+tools/preproc/preproc
+tools/ramscrgen/ramscrgen
+tools/rsfont/rsfont
+tools/scaninc/scaninc
+tools/.local
