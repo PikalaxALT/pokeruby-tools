@@ -28,9 +28,8 @@ cd libpng-${PNGVER}
 ./configure --host=i686-w64-mingw32 --prefix=${TOOLSDIR}/tools/.local
 make
 make install
-cd ..
 
 # Now build the tools.
-cd pokeruby-tools
+cd ${TOOLSDIR}
 sh build.sh
 ```
